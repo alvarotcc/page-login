@@ -41,9 +41,9 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode testar esse site dentro [DESSE LINK](https://alvarotcc.github.io/Fast-Work). E tambem ficar por dentro de novidades no nosso [perfil do instagram](https://www.instagram.com/fastworksolutions).
+Você pode testar esse site dentro [DESSE LINK](https://alvarotcc.github.io/page-login). E tambem ficar por dentro de novidades no nosso [perfil do instagram](https://www.instagram.com/fastworksolutions).
 
-## ✔ contato
+## 📲 contato
 
 Fale conosco, tire suas duvidas e desfrute de um ótimo atendimento em nosso [Whatsapp](https://wa.me/54991884991)
 
